@@ -15,3 +15,5 @@ xgboost
 ipywidgets
 docker
 quixstreams
+Jinja2
+PyYAML
